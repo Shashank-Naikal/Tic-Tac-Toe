@@ -1,0 +1,9 @@
+.board_row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.board_container {
+  width: 30%;
+  margin: 10% 30%;
+}
